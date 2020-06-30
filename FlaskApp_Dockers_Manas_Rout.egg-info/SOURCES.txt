@@ -1,0 +1,15 @@
+README.md
+setup.py
+FlaskApp_Dockers_Manas_Rout.egg-info/PKG-INFO
+FlaskApp_Dockers_Manas_Rout.egg-info/SOURCES.txt
+FlaskApp_Dockers_Manas_Rout.egg-info/dependency_links.txt
+FlaskApp_Dockers_Manas_Rout.egg-info/top_level.txt
+appenv/__init__.py
+appenv/infosetup.py
+myapp/__init__.py
+myapp/cache.py
+myapp/config.py
+myapp/utills.py
+myapp/view.py
+myapp/appenv/__init__.py
+myapp/appenv/infosetup.py
